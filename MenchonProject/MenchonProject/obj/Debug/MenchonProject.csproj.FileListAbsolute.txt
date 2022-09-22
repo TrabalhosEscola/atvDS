@@ -12,3 +12,16 @@ C:\Users\Pedro\source\repos\MenchonProject\MenchonProject\obj\Debug\MenchonProje
 C:\Users\Pedro\source\repos\MenchonProject\MenchonProject\obj\Debug\MenchonProject.exe
 C:\Users\Pedro\source\repos\MenchonProject\MenchonProject\obj\Debug\MenchonProject.pdb
 C:\Users\Pedro\source\repos\MenchonProject\MenchonProject\obj\Debug\MenchonProject.PagPrincipal.resources
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\bin\Debug\MenchonProject.exe.config
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\bin\Debug\MenchonProject.exe
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\bin\Debug\MenchonProject.pdb
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.Cliente.resources
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.PagPrincipal.resources
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.Produto.resources
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.Properties.Resources.resources
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.Usuario.resources
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.exe
+C:\Users\Aluno\Desktop\atvDS-main\MenchonProject\MenchonProject\obj\Debug\MenchonProject.pdb
